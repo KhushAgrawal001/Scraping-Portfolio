@@ -6,9 +6,7 @@ This repository contains a simple web scraping project using Python's `requests`
 - [Description](#description)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Example Output](#example-output)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Description
 This project scrapes data from a webpage (in this case, `https://khushagrawal.tech`) and extracts:
